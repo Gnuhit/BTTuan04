@@ -15,8 +15,6 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
-            // hello helo heloooo
-            // la anh la anh
         }
     }
 }
